@@ -1,0 +1,3 @@
+/usr/local/bin/MyApplication
+/usr/local/lib/libMyLibrary1.so
+/usr/local/lib/libMyLibrary2.a

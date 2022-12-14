@@ -1,0 +1,20 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+../MyLib1/aritmetica.h
+
+../MyLib2/potencias.h
+
+/home/clara/Proyectos/DAW1-ED-Bibliotecas/cpp/MyApp/main.cpp
+iostream
+-
+aritmetica.h
+/home/clara/Proyectos/DAW1-ED-Bibliotecas/cpp/MyApp/aritmetica.h
+potencias.h
+/home/clara/Proyectos/DAW1-ED-Bibliotecas/cpp/MyApp/potencias.h
+

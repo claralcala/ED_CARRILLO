@@ -1,0 +1,9 @@
+/home/clara/Proyectos/DAW1-ED-Bibliotecas/cpp/build/CMakeFiles/install/strip.dir
+/home/clara/Proyectos/DAW1-ED-Bibliotecas/cpp/build/CMakeFiles/install/local.dir
+/home/clara/Proyectos/DAW1-ED-Bibliotecas/cpp/build/CMakeFiles/install.dir
+/home/clara/Proyectos/DAW1-ED-Bibliotecas/cpp/build/CMakeFiles/list_install_components.dir
+/home/clara/Proyectos/DAW1-ED-Bibliotecas/cpp/build/CMakeFiles/rebuild_cache.dir
+/home/clara/Proyectos/DAW1-ED-Bibliotecas/cpp/build/CMakeFiles/MyLibrary2.dir
+/home/clara/Proyectos/DAW1-ED-Bibliotecas/cpp/build/CMakeFiles/MyLibrary1.dir
+/home/clara/Proyectos/DAW1-ED-Bibliotecas/cpp/build/CMakeFiles/edit_cache.dir
+/home/clara/Proyectos/DAW1-ED-Bibliotecas/cpp/build/CMakeFiles/MyApplication.dir

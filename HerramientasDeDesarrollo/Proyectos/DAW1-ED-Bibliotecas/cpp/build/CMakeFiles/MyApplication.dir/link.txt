@@ -1,0 +1,1 @@
+/usr/bin/c++  -O3 -DNDEBUG  -rdynamic CMakeFiles/MyApplication.dir/MyApp/main.cpp.o  -o bin/MyApplication  -Wl,-rpath,/home/clara/Proyectos/DAW1-ED-Bibliotecas/cpp/build/lib: lib/libMyLibrary1.so lib/libMyLibrary2.a 

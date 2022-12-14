@@ -1,0 +1,1 @@
+/usr/bin/c++ -fPIC -O3 -DNDEBUG  -shared -Wl,-soname,libMyLibrary1.so -o lib/libMyLibrary1.so CMakeFiles/MyLibrary1.dir/MyLib1/aritmetica.cpp.o 

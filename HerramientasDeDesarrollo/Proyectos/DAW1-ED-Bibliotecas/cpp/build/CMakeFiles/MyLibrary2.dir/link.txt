@@ -1,0 +1,2 @@
+/usr/bin/ar qc lib/libMyLibrary2.a  CMakeFiles/MyLibrary2.dir/MyLib2/potencias.cpp.o
+/usr/bin/ranlib lib/libMyLibrary2.a
